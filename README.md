@@ -1,4 +1,4 @@
-#### > CyberGram <
+## > CyberGram <
 Telegram bot library and platform of chats.  
 
 view [Docs](https://tele.readthedocs.io)  
